@@ -1,0 +1,5 @@
+package com.myapplication.jumpchat.gptApi
+
+object ApiKeyProvider {
+    const val OPENAI_API_KEY = "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"
+}
